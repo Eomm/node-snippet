@@ -23,5 +23,10 @@
   "devDependencies": {
     "standard": "^16.0.3",
     "tap": "^14.11.0"
+  },
+  "dependencies": {
+    "desm": "^1.1.0",
+    "form-auto-content": "^2.2.0",
+    "got": "^11.8.2"
   }
 }
