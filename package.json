@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Eomm/<CHANGE ME>#readme",
   "devDependencies": {
     "standard": "^16.0.3",
-    "tap": "^14.11.0"
+    "tap": "^15.0.4"
   },
   "dependencies": {
     "desm": "^1.1.0",
