@@ -26,7 +26,9 @@
   },
   "dependencies": {
     "desm": "^1.1.0",
+    "fastify": "^3.15.0",
     "form-auto-content": "^2.2.0",
-    "got": "^11.8.2"
+    "got": "^11.8.2",
+    "node-fetch": "^2.6.1"
   }
 }
